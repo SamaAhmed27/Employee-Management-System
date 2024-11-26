@@ -23,7 +23,7 @@ The Employee Management System is a Python-based command-line application design
   ##### Data Validation: Email format checks and unique ID validation.
 
 ### Future Enhancements
-#### 1. Add persistent storage using a CSV or database to save employee records across program runs.
-#### 2. Implement a graphical user interface (GUI) for better user experience.
-#### 3. Add more advanced data validation (e.g., regex-based salary validation, more robust email checks).
-#### 4. Include role-based authentication for multi-user access control.
+##### 1. Add persistent storage using a CSV or database to save employee records across program runs.
+##### 2. Implement a graphical user interface (GUI) for better user experience.
+##### 3. Add more advanced data validation (e.g., regex-based salary validation, more robust email checks).
+##### 4. Include role-based authentication for multi-user access control.
