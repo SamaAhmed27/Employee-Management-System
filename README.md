@@ -15,13 +15,12 @@ The Employee Management System is a Python-based command-line application design
   Displays all employees with their details in a user-friendly format.
 #### 6. Input Validation:
   Ensures data integrity by validating employee IDs and email formats.
+  
 ### Technologies Used
 #### 1. Python
-  OOP Principles: Classes and methods to encapsulate employee-related data and operations.
-  File Handling (optional): Persistent storage using CSV files can be integrated.
-  Data Validation: Email format checks and unique ID validation.
-How to Run
-Clone the repository to your local machine:
+  ##### OOP Principles: Classes and methods to encapsulate employee-related data and operations.
+  ##### File Handling (optional): Persistent storage using CSV files can be integrated.
+  ##### Data Validation: Email format checks and unique ID validation.
 
 ### Future Enhancements
 #### 1. Add persistent storage using a CSV or database to save employee records across program runs.
