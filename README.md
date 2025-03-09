@@ -1,6 +1,5 @@
 # Final-Python-Project 
 ## Employee Management System 🧑‍💼💻
-Project Overview
 The Employee Management System is a Python-based command-line application designed to manage employee records efficiently. This system allows users to perform essential operations such as adding, updating, searching, and deleting employee details, as well as listing all employees in the system. The project demonstrates the use of core Python concepts, including Object-Oriented Programming (OOP), data validation, and file handling.
 
 ### Features 🌟
